@@ -1,0 +1,189 @@
+#trong {
+    position: relative;
+    margin: 0 auto;
+}
+
+#jeep {
+    position: absolute;
+    bottom: 0;
+    background: rgb(0, 0, 0);
+    background: rgba(131, 126, 126, 0.5);
+    color: #f1f1f1;
+    width: 32%;
+    box-sizing: border-box;
+    padding: 50px;
+    margin-bottom: 100px;
+    right: 15px;
+}
+p{
+    text-align: left;
+}
+h2{
+    color: black;
+}
+#suv {
+    border: solid;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    width: 100%;
+
+}
+#anhone {
+    padding: 10px;
+}
+
+#anhtwo {
+    padding: 10px;
+}
+
+#anhthree {
+    padding: 10px 260px;
+    display: block;
+    margin-top: -170px;
+
+
+}
+
+#anhfour {
+    padding: 10px 510px;
+    display: block;
+    margin-top: -540px;
+
+}
+
+#anhfive {
+    padding: 10px 1130px;
+    display: block;
+    margin-top: -540px;
+}
+
+#anhsix {
+    padding: 10px 1130px;
+}
+h2 {
+    text-align: center;
+}
+#gallery {
+    position: absolute;
+    background: orange;
+    background: orange;
+    color: black;
+    width: 20%;
+    box-sizing: border-box;
+    padding: 5px;
+    margin-left: 600px;
+    text-align: center;
+}
+#trong {
+    position: relative;
+    margin: 0 auto;
+    display: block;
+    margin-top: 50px;
+}
+
+#wranglerred {
+
+
+    position: absolute;
+    bottom: 0;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 41%;
+    box-sizing: border-box;
+    padding: 60px;
+    margin-bottom: 200px;
+
+}
+#exteior {
+    position: absolute;
+    background: yellow;
+    background: yellow;
+    color: black;
+    width: 30%;
+    box-sizing: border-box;
+    padding: 5px ;
+    margin-top: 1px;
+    right: 354px;
+
+    
+    
+}
+#trongone{
+    position: relative;
+    display: block;
+    
+    
+}
+#wranglertrong{
+    position: absolute;
+    bottom: 0;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 41%;
+    box-sizing: border-box;
+    padding: 60px;
+    margin-bottom: 200px;
+}
+#interior{
+    position: absolute;
+    background: yellow;
+    background: yellow;
+    color: black;
+    width: 31%;
+    box-sizing: border-box;
+    padding: 5px ;
+    margin-top: 1px;
+    right: 342px;
+}
+#wranglerwhite{
+    
+   
+    position: absolute;
+    bottom: 0;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 40%;
+    box-sizing: border-box;
+    padding: 60px;
+    margin-bottom: 200px;
+    right: -10px;
+
+}
+#capability{
+    position: absolute;
+    background: yellow;
+    background: yellow;
+    color: black;
+    width: 40%;
+    box-sizing: border-box;
+    padding: 5px ;
+    margin-top: 1px;
+    right: 295px;
+}
+#performers{
+    position: absolute;
+    background: yellow;
+    background: yellow;
+    color: black;
+    width: 41%;
+    box-sizing: border-box;
+    padding: 5px ;
+    margin-top: 1px;
+    right: 283px;
+}
+#security{
+    position: absolute;
+    background: yellow;
+    background: yellow;
+    color: black;
+    width: 51%;
+    box-sizing: border-box;
+    padding: 5px ;
+    margin-top: 1px;
+    right: 230px;
+}

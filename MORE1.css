@@ -1,0 +1,21 @@
+#trong {
+    position: relative;
+    margin: 0 auto;
+}
+
+#jeep {
+    position: absolute;
+    bottom: 0;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 50%;
+    box-sizing: border-box;
+    padding: 25px;
+    text-align: center;
+    right: 350px;
+    margin-bottom: 700px;
+}
+h4{
+    font-size: 20px;
+}

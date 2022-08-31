@@ -1,0 +1,140 @@
+#logo {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center;
+
+}
+h1{
+    font-size: 100px;
+}
+#suv {
+    font-size: 10em;
+    border: solid;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    width: 100%;
+}
+
+#trong {
+    position: relative;
+    margin: 0 auto;
+}
+
+#jeep {
+    position: absolute;
+    bottom: 0;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 101%;
+    box-sizing: border-box;
+    padding: 25px;
+}
+
+h2 {
+    text-align: center;
+}
+
+#wrangler {
+    float: left;
+    padding: 20px;
+}
+
+#diamond {
+    text-align: center;
+    padding: 15px 300px;
+}
+
+#gladiator {
+    float: right;
+    padding: 0px 50px 0px 100px;
+    display: block;
+    margin-top: -250px;
+
+}
+
+figcaption {
+    text-align: center;
+
+}
+
+video {
+    max-width: 100%;
+}
+
+#natural {
+    position: absolute;
+    bottom: 0;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 31%;
+    box-sizing: border-box;
+    padding: 138px ;
+}
+
+#pictureone {
+    display: block;
+    float: left;
+    padding: 10px;
+}
+
+#picturetwo {
+    display: block;
+    text-align: center;
+    padding: 10px 450px;
+}
+
+#picturethree {
+    float: right;
+    padding: 10px 20px 0px 100px;
+    display: block;
+    margin-top: -270px;
+}
+h6{
+    color: yellow;
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#one{
+    position: absolute;
+    bottom: 0;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 10px;
+    box-sizing: border-box;
+    padding: 10px 174px;
+    margin-bottom: -2131px;
+    
+
+}
+#two{
+    position: absolute;
+    bottom: 0;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 20%;
+    box-sizing: border-box;
+    padding: 10px 174px ;
+    left: 545px;
+    margin-bottom: -2131px;
+
+}
+#three{
+    position: absolute;
+    bottom: 0;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 20%;
+    box-sizing: border-box;
+    padding: 10px 175px ;
+    left: 1070px;
+    margin-bottom: -2131px;
+
+}

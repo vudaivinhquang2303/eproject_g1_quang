@@ -1,0 +1,42 @@
+h2,h3,h6,p{
+    text-align: center;
+}
+#suv {
+    border: solid;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    width: 100%;
+}
+#trongone{
+    position: relative;
+    display: block;
+    
+    
+}
+#wranglerwhite{
+    position: absolute;
+    bottom: 0;
+    background: rgb(0, 0, 0);
+    background: rgba(150, 148, 148, 0.5);
+    color: black;
+    width: 41%;
+    box-sizing: border-box;
+    padding: 60px;
+    margin-bottom: 200px;
+    right: -10px;
+
+}
+#wranglertrong{
+    position: absolute;
+    bottom: 0;
+    background: rgb(0, 0, 0);
+    background: rgba(120, 119, 119, 0.5);
+    color: #f1f1f1;
+    width: 41%;
+    box-sizing: border-box;
+    padding: 60px;
+    margin-bottom: 200px;
+
+}

@@ -1,0 +1,176 @@
+#wrangler {
+    color: #fff;
+    position: absolute;
+    padding: 10px;
+    left: 570px;
+    font-style: oblique;
+}
+
+#information {
+    text-align: center;
+}
+a{
+    color: black;
+}
+
+h2 {
+    text-align: center;
+}
+
+#anhone {
+    padding: 10px;
+}
+
+#anhtwo {
+    padding: 10px;
+}
+
+#anhthree {
+    padding: 10px 260px;
+    display: block;
+    margin-top: -170px;
+
+
+}
+
+#anhfour {
+    padding: 10px 510px;
+    display: block;
+    margin-top: -540px;
+
+}
+
+#anhfive {
+    padding: 10px 1130px;
+    display: block;
+    margin-top: -540px;
+}
+
+#anhsix {
+    padding: 10px 1130px;
+}
+
+#gallery {
+    position: absolute;
+    background: orange;
+    background: orange;
+    color: black;
+    width: 20%;
+    box-sizing: border-box;
+    padding: 5px;
+    margin-left: 600px;
+    text-align: center;
+}
+
+#trong {
+    position: relative;
+    margin: 0 auto;
+    display: block;
+    margin-top: 50px;
+}
+
+#wranglerred {
+
+
+    position: absolute;
+    bottom: 0;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 41%;
+    box-sizing: border-box;
+    padding: 60px;
+    margin-bottom: 200px;
+
+}
+#exteior {
+    position: absolute;
+    background: yellow;
+    background: yellow;
+    color: black;
+    width: 30%;
+    box-sizing: border-box;
+    padding: 5px ;
+    margin-top: 1px;
+    right: 354px;
+
+    
+    
+}
+#trongone{
+    position: relative;
+    display: block;
+    
+    
+}
+#wranglertrong{
+    position: absolute;
+    bottom: 0;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 41%;
+    box-sizing: border-box;
+    padding: 60px;
+    margin-bottom: 200px;
+    right: -10px;
+}
+#interior{
+    position: absolute;
+    background: yellow;
+    background: yellow;
+    color: black;
+    width: 30%;
+    box-sizing: border-box;
+    padding: 5px ;
+    margin-top: 1px;
+    right: 354px;
+}
+#wranglerwhite{
+    position: absolute;
+    bottom: 0;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 41%;
+    box-sizing: border-box;
+    padding: 60px;
+    margin-bottom: 200px;
+
+}
+#capability{
+    position: absolute;
+    background: yellow;
+    background: yellow;
+    color: black;
+    width: 35%;
+    box-sizing: border-box;
+    padding: 5px ;
+    margin-top: 1px;
+    right: 325px;
+}
+#technology{
+    position: absolute;
+    background: yellow;
+    background: yellow;
+    color: black;
+    width: 41%;
+    box-sizing: border-box;
+    padding: 5px ;
+    margin-top: 1px;
+    right: 290px;
+}
+#security{
+    position: absolute;
+    background: yellow;
+    background: yellow;
+    color: black;
+    width: 51%;
+    box-sizing: border-box;
+    padding: 5px ;
+    margin-top: 1px;
+    right: 230px;
+} 
+#it{
+    text-align: center;
+}

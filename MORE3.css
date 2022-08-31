@@ -1,0 +1,21 @@
+h1{text-align: center;
+color: black;
+padding: 100px;
+font-size: 59px;}
+header {
+    background: 
+      linear-gradient(
+        rgba(110, 104, 104, 0.86),
+        rgba(118, 114, 114, 0.453)
+      ),
+      url(https://media.vov.vn/uploaded/peflh4uvk3frwhdtzaag/2017_07_20/jeep_wrangler_rubicon_01_1__uije.jpg);
+    background-size: cover;
+    height: 100vh;
+  }
+  #chu{
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      font-size: 20px;
+      text-align: center;
+      color: white;
+      margin-top: -150px;
+  }

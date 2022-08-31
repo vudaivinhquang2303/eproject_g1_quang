@@ -1,0 +1,38 @@
+body{
+    padding:0px;
+    margin:0px;
+  }
+  header {
+    background: 
+      linear-gradient(
+        rgba(0, 0, 0, 0.5),
+        rgba(0, 0, 0, 0.5)
+      ),
+      url(https://www.jeep-vn.com/content/dam/cross-regional/asean/jeep/common/2022/news/wrangler-best-4x4%20-2022-700-505.jpg.img.2000.jpg);
+    background-size: cover;
+    height: 100vh;
+  }
+  
+  #tieu_de {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  h1 {
+    text-transform: uppercase;
+    margin: 0;
+    font-size: 2.2rem;
+    white-space: nowrap;
+    color: greenyellow;
+  }
+  h5{
+    font-size: 1.1rem;
+    color: beige;
+  }
+  p{
+      color: greenyellow;
+  }
