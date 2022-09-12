@@ -1,0 +1,32 @@
+#trong {
+    position: relative;
+    margin: 0 auto;
+    display: block;
+    margin-top: 50px;
+}
+
+#wranglerred {
+
+
+    position: absolute;
+    bottom: 0;
+    background: white;
+    background: white;
+    color: black;
+    width: 34%;
+    box-sizing: border-box;
+    padding: 60px;
+    margin-bottom: 200px;
+    text-align: center;
+
+}
+#trongone{
+    position: relative;
+    display: block;
+    
+    
+}
+
+h2,h6,h1,p{
+    text-align: center;
+}

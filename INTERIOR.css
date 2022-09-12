@@ -1,0 +1,64 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+/* Nơi Chứa Hình Ảnh Và Nội Dung */
+.container {
+    position: relative;
+    color: #FFF;
+    font-size: 1rem;
+}
+
+/*Xác định độ rộng hình ảnh*/
+img {
+    width: 100%;
+}
+
+/* Chữ nằm bên góc dưới trái hình ảnh*/
+.duoi_trai {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+}
+
+
+#dau {
+    text-align: center;
+}
+
+#suv {
+    border: solid;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    width: 100%;
+}
+#wrangler {
+    float: left;
+    height: 20px;
+}
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 470px;
+  }
+  
+  div.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
+  }
+  h2,p{
+      text-align: center;
+  }

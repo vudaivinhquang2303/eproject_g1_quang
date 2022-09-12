@@ -1,0 +1,45 @@
+#dau {
+    text-align: center;
+}
+#trongone{
+    position: relative;
+    display: block;
+}
+#wranglertrong{
+    position: absolute;
+    bottom: 0;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 34.2%;
+    box-sizing: border-box;
+    padding: 60px;
+    margin-bottom: 190px;
+    left: 50px;
+    text-align: center;
+}
+div.gallery {
+    margin: 6px;
+    float: left;
+    width: 275px;
+}
+
+
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 20px;
+    text-align: center;
+}
+#suv {
+    border: solid;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    width: 100%;
+}
