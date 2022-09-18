@@ -1,0 +1,54 @@
+#dau{
+    float: none;
+    background-color: azure;
+    text-align: center;
+}
+#trongone{
+    position: relative;
+    display: block;
+    
+    
+}
+#wranglertrong{
+    position: absolute;
+    bottom: 0;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 34.2%;
+    box-sizing: border-box;
+    padding: 60px;
+    margin-bottom: 50px;
+    left: 925px;
+}
+#wranglertrongg{
+    position: absolute;
+    bottom: 0;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 34.2%;
+    box-sizing: border-box;
+    padding: 60px;
+    margin-bottom: 0px;
+    left: 925px;
+}
+div.gallery {
+    margin: 5px;
+    float: left;
+    width: 470px;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
